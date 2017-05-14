@@ -1,4 +1,4 @@
-How to use
+How to use;
 
 https://github.com/sefagurel/HttpViewer/#{JSON}
 
