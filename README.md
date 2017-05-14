@@ -1,6 +1,6 @@
 How to use;
 
-https://github.com/sefagurel/HttpViewer/#JSON
+https://sefagurel.github.io/HttpViewer/#JSON
 
 Example url;
 
