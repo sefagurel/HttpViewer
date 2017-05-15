@@ -9,7 +9,7 @@ https://sefagurel.github.io/HttpViewer/#JSON
 
 Json schema;
 
-![alt text](https://github.com/sefagurel/HttpViewer/blob/master/images/schema.JPG)
+![alt text](https://github.com/sefagurel/HttpViewer/blob/master/images/schema.jpg)
 
 Example url;
 
